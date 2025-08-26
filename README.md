@@ -6,7 +6,7 @@ It takes the user's date of birth (day, month, year) as input and calculates the
 ---
 
 ## 🚀 Live Demo
-[View on GitHub Pages](YOUR_GITHUB_PAGES_URL_HERE)
+[View on GitHub Pages](https://muhammadasad878.github.io/age-calculator/)
 
 ---
 
